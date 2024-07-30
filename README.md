@@ -1,13 +1,11 @@
-## Hi there 👋
+# Hi there 👋, I´m João Escudeiro 👨‍💻
 
-# Hello I´m João Escudeiro 👨‍💻
-
-- I'm a master's degree student in Software Engineering at Universidade do Minho, specializing in Machine Learning and Data Science.
-- I´m from Valpaços, Vila Real. 📍
-- I´m interested in areas such as Machine Learning and Data Science, as well as Full-Stack Developing.
+- I'm a master's degree student in Software Engineering at Universidade do Minho, specializing in Cryptography and Information Security and Next-Generation Networks.
+- I´m from Vila Nova de Famalicão, Braga, Portugal. 📍
+- I´m interested in areas such as Next-Generation Applications, Networks and Security in Comunications, as well as Full-Stack Developing.
 - The content of this GitHub is mainly University Projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-escudeiro-0641a5229/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bernardo-escudeiro-0641a5229/](https://www.linkedin.com/in/ivo-miguel-alves-ribeiro-282554267/)) 
 
 
 
