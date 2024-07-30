@@ -1,4 +1,4 @@
-# Hi there 👋, I´m João Escudeiro 👨‍💻
+# Hi there 👋, I´m Ivo Ribeiro 👨‍💻
 
 - I'm a master's degree student in Software Engineering at Universidade do Minho, specializing in Cryptography and Information Security and Next-Generation Networks.
 - I´m from Vila Nova de Famalicão, Braga, Portugal. 📍
