@@ -5,7 +5,7 @@
 - I´m interested in areas such as Next-Generation Applications, Networks and Security in Communications, as well as Full-Stack Developing.
 - The content of this GitHub is mainly University Projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bernardo-escudeiro-0641a5229/](https://www.linkedin.com/in/ivo-miguel-alves-ribeiro-282554267/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ivo-miguel-alves-ribeiro-282554267/)) 
 
 
 
